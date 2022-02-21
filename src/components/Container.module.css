@@ -1,0 +1,33 @@
+.container {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #E3F0FF, #FAFCFF);
+    /* background-color: red; */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+.cart {
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    font-size: 50px;
+   }
+
+   .red {    
+    box-shadow: 0px 25px 40px #ad125b;
+   }
+
+   .green {
+    box-shadow: 0px 25px 40px #269900;
+   }
+
+   .yellow {
+    box-shadow: 0px 25px 40px #d3a900;
+   }
+
+  
